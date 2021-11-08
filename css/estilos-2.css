@@ -1,0 +1,18 @@
+
+
+#img-z1{
+  border-bottom-right-radius: 40%;
+  box-shadow:-90px 100px blue;
+  z-index: 1;
+  top:0;
+  left:50px;
+}
+
+#img-z2
+{
+  top:0;
+  left:50px;
+  z-index:2;
+}
+
+
